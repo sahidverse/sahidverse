@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./https:/github.com/sahidverse/sahidverse/blob/9aa4aa22778769092b59c0da8fb7d403d21341dd/file_00000000affc81f79b5db781513c6313.png" alt="Sahid Ahmed - Aspiring MERN Stack Developer" width="100%">
+<img src="https://github.com/sahidverse/sahidverse/blob/9aa4aa22778769092b59c0da8fb7d403d21341dd/file_00000000affc81f79b5db781513c6313.png" alt="Sahid Ahmed - Aspiring MERN Stack Developer" width="100%">
 
 </div>
 
